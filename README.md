@@ -35,6 +35,7 @@ U-Net is a convolutional neural network architecture designed for biomedical ima
 
 ### Sample Output
 
+![U-Net Model Output](output/U-Net%20Model%20Output.png)
 
 
 ## 📝 How to Run
